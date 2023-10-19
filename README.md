@@ -27,7 +27,7 @@ Always keeping in mind the positional dependencies between them. In our particul
 before `SOLoons` and the latter should always be adjacent to a `POLYanet` (For adjacency I only checked: up, down, left, 
 and right. I didn't check diagonals, but it should be trivial to add if needed).
 
-There is a retrying policy in case of a 429 Error (Too Many Requests) when creating this objects.
+There is a retrying policy in case of a 429 Error (Too Many Requests) when creating these objects.
 
 ---
 ## Running the app
